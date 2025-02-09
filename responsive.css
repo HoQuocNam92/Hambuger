@@ -7,11 +7,9 @@
         display: none;
     }
 
-
     #content .content-section {
         display: inline-block;
         width: 100%;
-
     }
 
     #content .menu-section-context {
@@ -20,5 +18,9 @@
 
     #content .content-contact {
         padding: 12px 24px;
+    }
+
+    #content button {
+        color: #000;
     }
 }
