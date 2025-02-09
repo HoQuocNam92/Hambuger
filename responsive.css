@@ -20,6 +20,11 @@
         padding: 12px 24px;
     }
 
+    .text-contact span {
+        color: #000;
+
+    }
+
     #content button {
         color: #000;
     }
