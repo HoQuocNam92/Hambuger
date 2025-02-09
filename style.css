@@ -2,16 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 
-body {
+html {
     font-family: "Noto Serif", serif;
-
-    /* font-family: "Times New Roman", Georgia, Serif; */
-}
-
-.clear {
-    clear: both;
 }
 
 #header {
